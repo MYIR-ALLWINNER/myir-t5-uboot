@@ -1,0 +1,3 @@
+sunxi_keybox.c:100:12:sunxi_keybox_install_keys	4120	static
+sunxi_keybox.c:142:5:sunxi_keybox_has_key	24	static
+sunxi_keybox.c:154:5:sunxi_keybox_init	24	static

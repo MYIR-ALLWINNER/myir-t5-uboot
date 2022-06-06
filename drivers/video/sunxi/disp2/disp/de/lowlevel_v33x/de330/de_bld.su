@@ -1,0 +1,14 @@
+de_bld.c:43:13:bld_set_block_dirty	0	static
+de_bld.c:49:13:bld_set_rcq_head_dirty	0	static
+de_bld.c:59:5:de_bld_set_bg_color	8	static
+de_bld.c:69:5:de_bld_set_pipe_fcolor	8	static
+de_bld.c:80:5:de_bld_set_out_size	16	static
+de_bld.c:91:5:de_bld_set_fmt_space	8	static
+de_bld.c:102:5:de_bld_set_out_scan_mode	8	static
+de_bld.c:112:5:de_bld_set_pipe_ctl	24	static
+de_bld.c:140:5:de_bld_set_pipe_attr	24	static
+de_bld.c:162:5:de_bld_set_blend_mode	16	static
+de_bld.c:214:5:de_bld_disable	8	static
+de_bld.c:225:5:de_bld_init	32	static
+de_bld.c:274:5:de_bld_exit	8	static
+de_bld.c:287:5:de_bld_get_reg_blocks	24	static

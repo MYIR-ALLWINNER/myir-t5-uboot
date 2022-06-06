@@ -1,0 +1,8 @@
+pmu_axp1530.c:295:15:pmu_axp1530_get_reg_value	16	static
+pmu_axp1530.c:279:12:pmu_axp1530_get_key_irq	16	static
+pmu_axp1530.c:264:12:pmu_axp1530_set_power_off	16	static
+pmu_axp1530.c:58:25:get_ctrl_info_from_tbl	24	static
+pmu_axp1530.c:207:12:pmu_axp1530_get_voltage	48	static
+pmu_axp1530.c:124:12:pmu_axp1530_set_voltage	56	static
+pmu_axp1530.c:304:15:pmu_axp1530_set_reg_value	16	static
+pmu_axp1530.c:103:12:pmu_axp1530_probe	16	static

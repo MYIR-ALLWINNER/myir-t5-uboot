@@ -1,0 +1,11 @@
+sunxi_efuse.c:126:13:__sid_reg_read_key	0	static
+sunxi_efuse.c:117:12:set_efuse_voltage	0	static
+sunxi_efuse.c:145:6:sid_read_key	0	static
+sunxi_efuse.c:150:6:sid_program_key	16	static
+sunxi_efuse.c:181:12:uni_burn_key	16	static
+sunxi_efuse.c:199:5:sid_set_security_mode	0	static
+sunxi_efuse.c:212:5:sid_probe_security_mode	8	static
+sunxi_efuse.c:222:5:sid_get_security_status	0	static
+sunxi_efuse.c:337:5:sunxi_efuse_write	24	static
+sunxi_efuse.c:424:5:sunxi_efuse_read	48	static
+sunxi_efuse.c:485:5:sunxi_efuse_get_rotpk_status	0	static

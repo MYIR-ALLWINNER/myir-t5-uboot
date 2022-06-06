@@ -1,0 +1,2 @@
+android_ab.c:182:5:ab_select_slot	56	static
+android_ab.c:305:5:ab_select_slot_from_partname	32	static

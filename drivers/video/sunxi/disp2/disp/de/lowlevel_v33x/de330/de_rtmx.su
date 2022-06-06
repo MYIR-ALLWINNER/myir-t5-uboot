@@ -1,0 +1,12 @@
+de_rtmx.c:27:25:de_rtmx_get_context	0	static
+de_rtmx.c:158:5:de_rtmx_setup_rcq	16	static
+de_rtmx.c:173:5:de_rtmx_set_all_rcq_head_dirty	8	static
+de_rtmx.c:191:5:de_rtmx_init	80	static
+de_rtmx.c:255:5:de_rtmx_exit	24	static
+de_rtmx.c:315:5:de_rtmx_start	24	static
+de_rtmx.c:327:5:de_rtmx_stop	8	static
+de_rtmx.c:333:5:de_rtmx_update_reg_ahb	24	static
+de_rtmx.c:354:5:de_rtmx_set_rcq_update	16	static
+de_rtmx.c:373:1:de_rtmx_convert_color_space	0	static
+de_rtmx.c:412:5:de_rtmx_mgr_apply	24	static
+de_rtmx.c:1070:5:de_rtmx_layer_apply	368	static

@@ -1,0 +1,8 @@
+de_ccsc.c:42:13:ccsc_set_block_dirty	0	static
+de_ccsc.c:48:13:ccsc_set_rcq_head_dirty	0	static
+de_ccsc.c:58:5:de_ccsc_enable	8	static
+de_ccsc.c:70:5:de_ccsc_apply	32	static
+de_ccsc.c:113:5:de_ccsc_set_alpha	8	static
+de_ccsc.c:123:5:de_ccsc_init	40	static
+de_ccsc.c:177:5:de_ccsc_exit	16	static
+de_ccsc.c:194:5:de_ccsc_get_reg_blocks	32	static

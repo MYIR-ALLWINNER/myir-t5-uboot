@@ -1,0 +1,6 @@
+hdcp.c:16:6:hdcp_rxdetect	16	static
+hdcp.c:28:6:_DisableEncryption	16	static
+hdcp.c:61:6:_setDeviceMode	16	static
+hdcp.c:119:5:hdcp_initialize	24	static
+hdcp.c:1286:6:hdcp_av_mute	16	static
+hdcp.c:1293:4:hdcp_av_mute_state	8	static

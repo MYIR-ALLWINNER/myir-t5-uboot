@@ -1,0 +1,2 @@
+core_edid.c:240:6:videoParams_SetYcc420Support	24	static
+core_edid.c:375:6:edid_set_video_prefered_core	24	static

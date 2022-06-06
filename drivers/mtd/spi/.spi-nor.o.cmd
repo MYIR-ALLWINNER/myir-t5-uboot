@@ -1,0 +1,1 @@
+cmd_drivers/mtd/spi/spi-nor.o := ./../tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/mtd/spi/spi-nor.o drivers/mtd/spi/sf_probe.o drivers/mtd/spi/spi-nor-ids.o drivers/mtd/spi/spi-nor-core.o 

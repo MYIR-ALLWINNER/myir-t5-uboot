@@ -1,0 +1,13 @@
+mmc.c:828:12:do_mmcops	32	static
+mmc.c:95:20:init_mmc_device	16	static
+mmc.c:370:12:do_mmc_rescan	8	static
+mmc.c:517:12:do_mmc_hwpartition	96	static
+mmc.c:441:12:do_mmc_list	8	static
+mmc.c:400:12:do_mmc_dev	24	static
+mmc.c:282:12:do_mmc_read	24	static
+mmc.c:340:12:do_mmc_erase	24	static
+mmc.c:310:12:do_mmc_write	24	static
+mmc.c:110:12:do_mmcinfo	40	static
+mmc.c:746:12:do_mmc_setdsr	16	static
+mmc.c:381:12:do_mmc_part	8	static
+mmc.c:903:5:do_card0_probe	16	static

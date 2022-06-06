@@ -1,0 +1,15 @@
+access.c:141:12:_scl_calc	8	static
+access.c:43:6:register_bsp_functions	8	static
+access.c:77:5:dev_read	8	static
+access.c:86:6:dev_write	4	static
+access.c:94:5:dev_read_mask	16	static
+access.c:101:6:dev_write_mask	24	static
+access.c:113:5:access_Initialize	8	static
+access.c:118:5:access_Standby	8	static
+access.c:124:6:register_system_functions	16	static
+access.c:131:6:snps_sleep	0	static
+access.c:309:6:i2cddc_clk_config	40	static
+access.c:318:6:i2cddc_fast_mode	16	static
+access.c:326:6:i2cddc_mask_interrupts	16	static
+access.c:337:5:ddc_write	40	static
+access.c:354:5:ddc_read	72	static

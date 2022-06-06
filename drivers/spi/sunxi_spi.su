@@ -1,0 +1,11 @@
+sunxi_spi.c:897:13:sunxi_dma_isr	0	static
+sunxi_spi.c:393:13:spi_set_bc_tc_stc.constprop	8	static
+sunxi_spi.c:678:12:sunxi_spi_cpu_writel.isra.2	8	static
+sunxi_spi.c:902:5:spi_dma_init	40	static
+sunxi_spi.c:922:5:spi_init	0	static
+sunxi_spi.c:932:5:spi_cs_is_valid	0	static
+sunxi_spi.c:940:19:spi_setup_slave	32	static
+sunxi_spi.c:983:6:spi_free_slave	8	static
+sunxi_spi.c:996:5:spi_claim_bus	24	static
+sunxi_spi.c:1034:6:spi_release_bus	0	static
+sunxi_spi.c:1044:5:spi_xfer	32	static

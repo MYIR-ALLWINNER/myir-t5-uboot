@@ -1,0 +1,10 @@
+de_bls.c:45:13:bls_set_block_dirty	0	static
+de_bls.c:51:13:bls_set_rcq_head_dirty	0	static
+de_bls.c:61:5:de_bls_init	32	static
+de_bls.c:98:5:de_bls_exit	0	static
+de_bls.c:103:5:de_bls_get_reg_blocks	32	static
+de_bls.c:127:5:de_bls_enable	8	static
+de_bls.c:138:5:de_bls_set_size	8	static
+de_bls.c:149:5:de_bls_set_window	24	static
+de_bls.c:167:5:de_bls_init_para	224	static
+de_bls.c:215:5:de_bls_info2para	8	static
