@@ -1,0 +1,11 @@
+fc_audio.c:39:13:fc_sample_freq	16	static
+fc_audio.c:132:13:fc_packet_layout	16	static
+fc_audio.c:125:13:fc_packet_sample_flat	16	static
+fc_audio.c:76:6:fc_audio_info_config	32	static
+fc_audio.c:274:6:fc_audio_config	40	static
+fc_audio.c:330:6:fc_audio_mute	0	static
+fc_audio.c:335:6:fc_audio_unmute	0	static
+fc_audio.c:340:4:fc_packet_layout_get	8	static
+fc_audio.c:350:4:fc_channel_count_get	8	static
+fc_audio.c:356:4:fc_iec_word_length_get	8	static
+fc_audio.c:363:4:fc_iec_sampling_freq_get	8	static

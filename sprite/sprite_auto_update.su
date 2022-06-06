@@ -1,0 +1,7 @@
+sprite_auto_update.c:75:27:nand_get_mbr	0	static
+sprite_auto_update.c:80:27:__dump_dlmap	56	static
+sprite_auto_update.c:124:8:fat_fs_read	288	static
+sprite_auto_update.c:181:12:__download_normal_part	1088	static
+sprite_auto_update.c:716:5:auto_update_deal_uboot	32	static
+sprite_auto_update.c:760:5:sunxi_auto_update_main	96	static
+sprite_auto_update.c:931:5:do_auto_update_check	344	static

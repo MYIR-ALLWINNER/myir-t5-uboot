@@ -1,0 +1,8 @@
+de_fbd_atw.c:63:13:fbd_atw_set_block_dirty	0	static
+de_fbd_atw.c:204:12:de_fbd_v_apply_lay.isra.1	64	static
+de_fbd_atw.c:69:13:fbd_atw_set_rcq_head_dirty	0	static
+de_fbd_atw.c:351:5:de_fbd_atw_apply_lay	56	static
+de_fbd_atw.c:365:5:de_fbd_atw_disable	16	static
+de_fbd_atw.c:385:5:de_fbd_atw_init	48	static
+de_fbd_atw.c:461:5:de_fbd_atw_exit	16	static
+de_fbd_atw.c:478:5:de_fbd_atw_get_reg_blocks	32	static

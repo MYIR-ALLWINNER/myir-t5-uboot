@@ -1,0 +1,6 @@
+scdc.c:20:5:scdc_read	24	static
+scdc.c:30:5:scdc_write	16	static
+scdc.c:113:12:scdc_scrambling_enable_flag	32	static
+scdc.c:76:6:scrambling_Enable	0	static
+scdc.c:40:6:scrambling	32	static
+scdc.c:169:4:scrambling_state	8	static

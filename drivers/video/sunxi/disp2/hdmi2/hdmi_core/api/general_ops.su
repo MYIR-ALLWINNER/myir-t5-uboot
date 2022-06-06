@@ -1,0 +1,6 @@
+general_ops.c:29:5:concat_bits	12	static
+general_ops.c:34:5:byte_to_word	0	static
+general_ops.c:39:4:bit_field	0	static
+general_ops.c:44:5:byte_to_dword	0	static
+general_ops.c:55:6:error_set	0	static
+general_ops.c:61:13:error_Get	0	static

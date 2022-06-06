@@ -1,0 +1,14 @@
+fc_video.c:47:13:fc_video_VBlankOsc	16	static
+fc_video.c:55:13:fc_video_Interlaced	16	static
+fc_video.c:79:13:fc_video_VActive	16	static
+fc_video.c:61:13:fc_video_HActive	16	static
+fc_video.c:70:13:fc_video_HBlank	16	static
+fc_video.c:105:13:fc_video_HSyncPulseWidth	16	static
+fc_video.c:96:13:fc_video_HSyncEdgeDelay	16	static
+fc_video.c:13:6:fc_video_hdcp_keepout	16	static
+fc_video.c:40:6:fc_video_DviOrHdmi	16	static
+fc_video.c:181:6:fc_force_audio	16	static
+fc_video.c:187:6:fc_force_video	16	static
+fc_video.c:207:6:fc_force_output	16	static
+fc_video.c:215:5:fc_video_config	40	static
+fc_video.c:303:4:fc_video_tmdsMode_get	8	static

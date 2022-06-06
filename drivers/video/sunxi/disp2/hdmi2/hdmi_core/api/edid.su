@@ -1,0 +1,3 @@
+edid.c:247:8:get_dtd	16	static
+edid.c:263:5:dtd_fill	32	static
+edid.c:282:5:dtd_get_refresh_rate	20	static

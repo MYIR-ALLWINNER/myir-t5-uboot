@@ -1,0 +1,1 @@
+cmd_drivers/video/sunxi/disp2/hdmi2/hdmi.o := ./../tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/video/sunxi/disp2/hdmi2/hdmi.o drivers/video/sunxi/disp2/hdmi2/hdmi_tx.o 

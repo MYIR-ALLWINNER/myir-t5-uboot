@@ -1,0 +1,8 @@
+identification.c:13:4:id_design	8	static
+identification.c:18:4:id_revision	8	static
+identification.c:23:4:id_product_line	8	static
+identification.c:28:4:id_product_type	8	static
+identification.c:33:5:id_hdcp_support	8	static
+identification.c:43:5:id_hdcp14_support	8	static
+identification.c:51:5:id_hdcp22_support	8	static
+identification.c:59:5:id_phy	0	static

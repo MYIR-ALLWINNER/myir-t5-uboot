@@ -1,0 +1,6 @@
+de_fmt.c:41:13:fmt_set_block_dirty	0	static
+de_fmt.c:47:13:fmt_set_rcq_head_dirty	0	static
+de_fmt.c:57:5:de_fmt_set_para	24	static
+de_fmt.c:106:5:de_fmt_init	32	static
+de_fmt.c:143:5:de_fmt_exit	8	static
+de_fmt.c:156:5:de_fmt_get_reg_blocks	24	static

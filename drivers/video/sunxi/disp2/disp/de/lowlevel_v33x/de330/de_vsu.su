@@ -1,0 +1,16 @@
+de_vsu.c:115:13:vsu_set_block_dirty	0	static
+de_vsu.c:139:12:de_vsu_calc_fir_coef	0	static
+de_vsu.c:121:13:vsu_set_rcq_head_dirty	0	static
+de_vsu.c:169:5:de_vsu_calc_lay_scale_para	64	static
+de_vsu.c:339:5:de_vsu_calc_ovl_coord	0	static
+de_vsu.c:353:5:de_vsu_calc_ovl_scale_para	20	static
+de_vsu.c:414:5:de_vsu_fix_tiny_size	32	static
+de_vsu.c:498:5:de_vsu_fix_big_size	32	static
+de_vsu.c:554:5:de_vsu_calc_scale_para	40	static
+de_vsu.c:951:5:de_vsu_set_para	40	static
+de_vsu.c:967:5:de_vsu_disable	16	static
+de_vsu.c:988:5:de_vsu_init_sharp_para	8	static
+de_vsu.c:1004:5:de_vsu_set_sharp_para	120	static
+de_vsu.c:1060:5:de_vsu_init	48	static
+de_vsu.c:1309:5:de_vsu_exit	16	static
+de_vsu.c:1326:5:de_vsu_get_reg_blocks	32	static

@@ -1,0 +1,1 @@
+cmd_drivers/video/sunxi/disp2/tv/tv.o := ./../tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/video/sunxi/disp2/tv/tv.o drivers/video/sunxi/disp2/tv/drv_tv.o drivers/video/sunxi/disp2/tv/de_tve_sun8iw11.o 

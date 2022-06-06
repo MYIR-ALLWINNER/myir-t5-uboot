@@ -1,0 +1,6 @@
+de_enhance.c:728:5:de_enhance_apply	0	static
+de_enhance.c:735:5:de_enhance_sync	0	static
+de_enhance.c:740:5:de_enhance_tasklet	0	static
+de_enhance.c:745:5:de_enhance_update_regs	0	static
+de_enhance.c:750:5:de_enhance_init	0	static
+de_enhance.c:755:5:de_enhance_layer_apply	0	static

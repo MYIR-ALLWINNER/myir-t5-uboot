@@ -1,0 +1,5 @@
+sunxi-ir.c:169:22:ir_packet_handle	0	static
+sunxi-ir.c:174:6:ir_recv_irq_service	32	static
+sunxi-ir.c:269:6:rc_keydown	0	static
+sunxi-ir.c:274:5:ir_setup	8	static
+sunxi-ir.c:290:6:ir_disable	8	static
