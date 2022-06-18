@@ -1,7 +1,0 @@
-de_smbl.c:539:5:de_smbl_update_regs	0	static
-de_smbl.c:544:5:de_smbl_tasklet	0	static
-de_smbl.c:549:5:de_smbl_apply	0	static
-de_smbl.c:554:5:de_smbl_sync	0	static
-de_smbl.c:559:5:de_smbl_init	0	static
-de_smbl.c:564:5:de_smbl_get_reg_blocks	0	static
-de_smbl.c:572:5:de_smbl_get_status	0	static

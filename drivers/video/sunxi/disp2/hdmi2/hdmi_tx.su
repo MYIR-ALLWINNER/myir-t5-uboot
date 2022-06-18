@@ -1,8 +1,0 @@
-hdmi_tx.c:322:12:hdmi_disable	8	static
-hdmi_tx.c:285:12:hdmi_enable	16	static
-hdmi_tx.c:71:21:get_hdmi_drv	0	static
-hdmi_tx.c:76:5:get_drv_hpd_state	0	static
-hdmi_tx.c:146:5:hdmi_power_enable	0	static
-hdmi_tx.c:147:5:hdmi_power_disable	0	static
-hdmi_tx.c:585:5:hdmi_deinit	0	static
-hdmi_tx.c:593:5:hdmi_init	216	static

@@ -1,9 +1,0 @@
-de_ovl.c:66:13:ovl_set_block_dirty	0	static
-de_ovl.c:83:12:de_ovl_convert_fmt	0	static
-de_ovl.c:72:13:ovl_set_rcq_head_dirty	4	static
-de_ovl.c:520:5:de_ovl_apply_lay	104	static
-de_ovl.c:533:5:de_ovl_disable_lay	16	static
-de_ovl.c:555:5:de_ovl_disable	32	static
-de_ovl.c:584:5:de_ovl_init	48	static
-de_ovl.c:693:5:de_ovl_exit	16	static
-de_ovl.c:710:5:de_ovl_get_reg_blocks	32	static

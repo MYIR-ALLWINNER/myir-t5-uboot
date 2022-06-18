@@ -1,5 +1,0 @@
-de_cdc.c:497:5:de_cdc_set_para	0	static
-de_cdc.c:503:5:de_cdc_disable	0	static
-de_cdc.c:508:7:de_cdc_create	0	static
-de_cdc.c:514:5:de_cdc_destroy	0	static
-de_cdc.c:519:5:de_cdc_get_reg_blks	0	static

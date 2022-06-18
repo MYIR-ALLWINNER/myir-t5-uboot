@@ -1,5 +1,0 @@
-ir-recovery.c:189:13:ir_detect_overtime	8	static
-ir-recovery.c:174:5:ir_boot_recovery_mode_detect	56	static
-ir-recovery.c:200:5:check_ir_boot_recovery	80	static
-ir-recovery.c:218:5:get_ir_work_mode	12	static
-ir-recovery.c:234:15:ir_packet_handle	40	static

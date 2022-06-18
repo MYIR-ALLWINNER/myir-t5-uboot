@@ -1,3 +1,0 @@
-tcon_feat.c:61:5:de_feat_get_num_devices	0	static
-tcon_feat.c:67:5:de_feat_get_num_dsi	0	static
-tcon_feat.c:72:5:de_feat_is_supported_output_types	0	static

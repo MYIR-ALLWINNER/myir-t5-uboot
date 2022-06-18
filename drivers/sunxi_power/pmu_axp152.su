@@ -1,8 +1,0 @@
-pmu_axp152.c:277:15:pmu_axp152_get_reg_value	16	static
-pmu_axp152.c:261:12:pmu_axp152_get_key_irq	16	static
-pmu_axp152.c:247:12:pmu_axp152_set_power_off	16	static
-pmu_axp152.c:65:25:get_ctrl_info_from_tbl	24	static
-pmu_axp152.c:190:12:pmu_axp152_get_voltage	48	static
-pmu_axp152.c:107:12:pmu_axp152_set_voltage	56	static
-pmu_axp152.c:286:15:pmu_axp152_set_reg_value	16	static
-pmu_axp152.c:87:12:pmu_axp152_probe	16	static
